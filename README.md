@@ -3,7 +3,7 @@
 
 - 🌱 Currently playing around with **MongoDB, Ktor, Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/sakethpathike)
+- 👨‍💻 All of my projects are available [here](https://github.com/sakethpathike)
 
 - 📝 I regularly write articles on [hashnode](https://saketh001.hashnode.dev)
 
