@@ -17,6 +17,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakethpathike&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethpathike&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://app.daily.dev/sakethpathike"><img src="https://api.daily.dev/devcards/53d6d1a71946407cb0ea528f30f4c51d.png?r=4uq" width="400" alt="Saketh's Dev Card"/></a>
+
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
