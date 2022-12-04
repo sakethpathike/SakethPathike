@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🔭 I’m currently working on [Jet Spacer!](https://github.com/sakethpathike/JetSpacer)
+- 🔭 I’m currently working on [Jet Spacer](https://github.com/sakethpathike/JetSpacer)
 
 - 🌱 Currently playing around with **MongoDB, Ktor, Jetpack Compose**
 
