@@ -1,17 +1,20 @@
-# 💫About Me :
-- 🔭 I’m currently working on [Jet Spacer](https://github.com/sakethpathike/JetSpacer)
+# Hi there👋, I'm Saketh;
 
-- 🌱 Currently playing around with **MongoDB, Ktor, Jetpack Compose**
+- I'm an Android developer with a passion for building apps. Currently, I'm working with Kotlin, Jetpack Compose, Ktor, and MongoDB to turn my ideas into Android projects/apps.
 
-- 👨‍💻 All of my projects are available [here](https://github.com/sakethpathike)
+- Through my [blog](https://sakethh.medium.com/), I share my experiences and personal insights on Android development, some of which have been accepted by the [Google Developer Library](https://devlibrary.withgoogle.com/authors/sakethh).
 
-- 📝 Check out my articles from the [Google Developer Library](https://devlibrary.withgoogle.com/authors/sakethh)
+- All of my projects are available [here](https://github.com/sakethpathike).
+
+### 🔭 Currently working on
+- [Jet Spacer](https://github.com/sakethpathike/JetSpacer) - An Android client that merges multiple space-related APIs into a single, simple application. This project is intended to be a client and offers customization options to tweak the data, which is under active development and constantly improving.
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sakethpathike) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14963389) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sakethpathike) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/sakethh) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sakethpathike) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sakethpathike/)
+
 
 # 💻Tech Stack
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![jetpackcompose](https://user-images.githubusercontent.com/83284398/194230490-8fe7bf97-3179-4aa0-99b7-fe631d81fff4.svg) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![jetpackcompose](https://user-images.githubusercontent.com/83284398/194230490-8fe7bf97-3179-4aa0-99b7-fe631d81fff4.svg) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 # 📊GitHub Stats :
@@ -19,7 +22,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakethpathike&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethpathike&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##### And that's a wrap! Thanks for stopping by and taking a look at my projects :)
