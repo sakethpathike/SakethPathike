@@ -7,7 +7,7 @@
 - All of my projects are available [here](https://github.com/sakethpathike).
 
 ### 🔭 Currently working on
-- [Linkora](https://github.com/sakethpathike/JetSpacer) - Linkora is an Android project that focuses on making link organization simpler. From saving a single link individually to saving links in a folder for respective use cases, Linkora has almost all of them with a simpler UI.
+- [Linkora](https://github.com/sakethpathike/Linkora) - Linkora is an Android project that focuses on making link organization simpler. From saving a single link individually to saving links in a folder for respective use cases, Linkora has almost all of them with a simpler UI.
 
 ## 🌐Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/sakethpathike) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/sakethpathike/)
