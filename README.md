@@ -17,7 +17,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![jetpackcompose](https://user-images.githubusercontent.com/83284398/194230490-8fe7bf97-3179-4aa0-99b7-fe631d81fff4.svg)
 
 
-# 📊GitHub Stats :
+# GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=sakethpathike&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sakethpathike&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakethpathike&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
